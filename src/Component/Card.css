@@ -1,0 +1,36 @@
+.column{
+    float: left;
+}
+
+.card{
+    border-radius: 8px;
+    background-color: rgb(232, 236, 232);
+    width: 450px;
+    height: 420px;
+    margin-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    box-shadow: 0 50px 20px 0 rgba(0,0,0,.2);
+}
+.card:hover{
+
+    border-style: solid;
+}
+.c_id{
+    text-align: left;
+}
+.c_id i b{
+    margin-left: 350px;
+}
+.c1{
+    text-align: left;
+}
+.c2{
+    text-align: left;
+}
+.c2 h2{
+    color: rgb(218, 32, 32);
+}
+.card1{
+    float: right;
+}
